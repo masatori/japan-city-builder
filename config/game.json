@@ -1,0 +1,14 @@
+{
+  "window": {
+    "width": 1280,
+    "height": 720,
+    "title": "Japan City Builder",
+    "fps": 60
+  },
+  "game": {
+    "initial_budget": 10000,
+    "difficulty": "normal",
+    "autosave_interval": 30
+  },
+  "debug": false
+}
